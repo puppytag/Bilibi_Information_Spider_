@@ -119,7 +119,7 @@ C:.
 
 在命令提示行中输入python main.py
 
-<img src="image\image-20231007195302581.png" alt="image-20231007195302581" style="zoom:50%;" />
+<img src="image\image-20231007195302581.png" alt="image-20231007195302581"  width="210px">
 
 ##### 4.处理数据：
 

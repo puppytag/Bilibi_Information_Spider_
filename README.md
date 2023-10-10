@@ -69,7 +69,7 @@ Bilibili是中国的一家视频网站，其有相当多的数据可供研究，
 
 ### 项目结构：
 
-C:.
+```C:.
 │  bili_uid_scraper.py：通过接入b站接口批量爬取某个用户的关注列表，用于批量获取高质量uid
 │  data_preprocessing.py：数据处理，把原始数据以用户为单位生成信息，存储为csv
 │  main.py：主函数
@@ -81,7 +81,7 @@ C:.
 ├─open source base data：开源的已爬取到的数据
 └─utils
         bilibili_spider.py：爬虫主代码
-        tools.py：工具类
+        tools.py：工具类```
 
 ### 依赖准备：
 

@@ -45,7 +45,7 @@ Bilibili是中国的一家视频网站，其有相当多的数据可供研究，
 
 粉丝数与其他变量的关系：
 
-<img src="image\image-20231007203007965.png" alt="image-20231007203007965" style="zoom:33%;" />
+<img src="image\image-20231007203007965.png" alt="image-20231007203007965" width="210px">
 
 <img src="image\image-20231007203043943.png" alt="image-20231007203043943" style="zoom:33%;" />
 

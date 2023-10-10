@@ -45,21 +45,13 @@ Bilibili是中国的一家视频网站，其有相当多的数据可供研究，
 
 粉丝数与其他变量的关系：
 
-<img src="image\image-20231007203007965.png" alt="image-20231007203007965"  width="500px">
+<img src="image\image-20231007203007965.png" alt="image-20231007203007965"  width="500px"><img src="image\image-20231007203043943.png" alt="image-20231007203043943"  width="500px">
 
-<img src="image\image-20231007203043943.png" alt="image-20231007203043943"  width="500px">
+<img src="image\image-20231007203104474.png" alt="image-20231007203104474"  width="500px"><img src="image\image-20231007203127629.png" alt="image-20231007203127629"  width="500px">
 
-<img src="image\image-20231007203104474.png" alt="image-20231007203104474"  width="500px">
+<img src="image\image-20231007203151553.png" alt="image-20231007203151553"  width="500px"><img src="image\image-20231007203211418.png" alt="image-20231007203211418"  width="500px">
 
-<img src="image\image-20231007203127629.png" alt="image-20231007203127629"  width="500px">
-
-<img src="image\image-20231007203151553.png" alt="image-20231007203151553"  width="500px">
-
-<img src="image\image-20231007203211418.png" alt="image-20231007203211418"  width="500px">
-
-<img src="image\image-20231007203229848.png" alt="image-20231007203229848"  width="500px">
-
-<img src="image\image-20231007203259301.png" alt="image-20231007203259301"  width="500px">
+<img src="image\image-20231007203229848.png" alt="image-20231007203229848"  width="500px"><img src="image\image-20231007203259301.png" alt="image-20231007203259301"  width="500px">
 
 更多分析敬请自行探索
 
@@ -103,12 +95,9 @@ C:.
 ##### 2.批量爬取用户uid：
 
 在b站随便找一个关注量较大的博主，或者是自己也可以，在TA的主页找到uid：     
-
-​                                                          <img src="image\image-20231007192131657.png" alt="image-20231007192131657"  width="500px">
-
+<img src="image\image-20231007192131657.png" alt="image-20231007192131657"  width="500px">
 然后打开bili_uid_scraper.py，把uid写在vmids里面
-
-​                                             <img src="image\image-20231007194337712.png" alt="image-20231007194337712"  width="500px">
+<img src="image\image-20231007194337712.png" alt="image-20231007194337712"  width="500px">
 运行程序，接着从输出文件当中获取uid，再放入vmids中，重复操作直到你认为uid数量已经足够，然后把uid都放入target_id.txt中，注意格式，一个uid占一行
 
 ##### 3.运行爬虫程序：

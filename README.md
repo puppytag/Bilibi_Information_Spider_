@@ -46,13 +46,13 @@ Bilibili是中国的一家视频网站，其有相当多的数据可供研究，
 
 粉丝数与其他变量的关系：
 
-<img src="image\image-20231007203007965.png" alt="image-20231007203007965"  width="500px"><img src="image\image-20231007203043943.png" alt="image-20231007203043943"  width="500px">
+<img src="image\image-20231007203007965.png" alt="image-20231007203007965"  width="400px"><img src="image\image-20231007203043943.png" alt="image-20231007203043943"  width="400px">
 
-<img src="image\image-20231007203104474.png" alt="image-20231007203104474"  width="500px"><img src="image\image-20231007203127629.png" alt="image-20231007203127629"  width="500px">
+<img src="image\image-20231007203104474.png" alt="image-20231007203104474"  width="400px"><img src="image\image-20231007203127629.png" alt="image-20231007203127629"  width="400px">
 
-<img src="image\image-20231007203151553.png" alt="image-20231007203151553"  width="500px"><img src="image\image-20231007203211418.png" alt="image-20231007203211418"  width="500px">
+<img src="image\image-20231007203151553.png" alt="image-20231007203151553"  width="400px"><img src="image\image-20231007203211418.png" alt="image-20231007203211418"  width="400px">
 
-<img src="image\image-20231007203229848.png" alt="image-20231007203229848"  width="500px"><img src="image\image-20231007203259301.png" alt="image-20231007203259301"  width="500px">
+<img src="image\image-20231007203229848.png" alt="image-20231007203229848"  width="400px"><img src="image\image-20231007203259301.png" alt="image-20231007203259301"  width="400px">
 
 更多分析敬请自行探索
 

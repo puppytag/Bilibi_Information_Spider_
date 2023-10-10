@@ -75,9 +75,7 @@ C:.
 │  main.py：主函数
 │  result.csv：处理结果
 │  target_id.txt：所有想要获取的uid，包括爬取成功和放弃爬取的
-
 │  remove_duplicate_string.py：对字符串进行去重
-
 │
 ├─json：存放爬取到的json文件
 ├─open source base data：开源的已爬取到的数据
@@ -104,11 +102,11 @@ C:.
 
 在b站随便找一个关注量较大的博主，或者是自己也可以，在TA的主页找到uid：     
 
-​                                                          <img src="image\image-20231007192131657.png" alt="image-20231007192131657" style="zoom:33%;" /> 
+​                                                          <img src="image\image-20231007192131657.png" alt="image-20231007192131657" style="zoom:10%;" /> 
 
 然后打开bili_uid_scraper.py，把uid写在vmids里面
 
-​                                             <img src="image\image-20231007194337712.png" alt="image-20231007194337712" style="zoom:50%;" />
+​                                             <img src="image\image-20231007194337712.png" alt="image-20231007194337712" style="zoom:10%;" />
 运行程序，接着从输出文件当中获取uid，再放入vmids中，重复操作直到你认为uid数量已经足够，然后把uid都放入target_id.txt中，注意格式，一个uid占一行
 
 ##### 3.运行爬虫程序：
